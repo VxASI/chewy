@@ -5,6 +5,7 @@
 			"ES2020"
 		],
 		"module": "nodenext",
+		"moduleResolution": "nodenext",
 		"alwaysStrict": true,
 		"removeComments": false,
 		"preserveConstEnums": true,
