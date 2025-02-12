@@ -1,5 +1,5 @@
 {
-  "name": "caret-dev-integration-test",
+  "name": "code-oss-dev-integration-test",
   "version": "0.1.0",
   "license": "MIT",
   "main": "./index.js",
